@@ -47,4 +47,4 @@ Inspired by precision tools and visual design needs, ScreenScale offers real-tim
 
 
 ## License
-This project is licensed under the MIT License. Modify and use it as you see fit—just don’t let Ultron take over. 😉git commit -m "first commit"
+This project is licensed under the MIT License. Modify and use it as you see fit. 😉git commit -m "first commit"
