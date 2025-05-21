@@ -35,7 +35,6 @@ Inspired by precision tools and visual design needs, ScreenScale offers real-tim
 - Graphic editing
 - Education / presentations
 - Physical-world measurements directly on screen
-  ```
 
 ## Controls
 - Drag the ruler with your mouse.
