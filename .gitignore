@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.VENV/
+env.bak/
+venv.bak/
+
+# PyInstaller or cx_Freeze generated files
+dist/
+build/
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
